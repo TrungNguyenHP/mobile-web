@@ -12,10 +12,10 @@ class DB_driver
 //         $pass = "a2b7bcff";
   
   public $__conn,
-        $host = "localhost",
+        $host = "coffee-shop.mysql.database.azure.com",
         $DbName = "web2",
-        $user = "root",
-        $pass = "";
+        $user = "tuan",
+        $pass = "Tohru14617";
 
     // Hàm Kết Nối
     function connect()
